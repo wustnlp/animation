@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AnimOnPreDraw</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_value_animation">ValueAnimationActivity</string>
+    <string name="vertical">垂直</string>
+    <string name="paowuxian">抛物线</string>
+    <string name="danchu">淡出且删除</string>
+    <string name="title_activity_animation_set">AnimationSetActivity</string>
+    <string name="title_activity_xml_animaton">XmlAnimatonActivity</string>
+    <string name="title_activity_layout_animation">LayoutAnimationActivity</string>
+    <string name="title_activity_view_animaton">ViewAnimatonActivity</string>
+</resources>

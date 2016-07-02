@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="end_color">#8080ff</color>
+    <color name="start_color">#ff8080</color>
+</resources>
